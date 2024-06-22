@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GorillaTagModTemplateProject", "GorillaTagModTemplateProject.csproj", "{CDE87798-4E20-47DC-88B4-4FBCE1BB712E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE87798-4E20-47DC-88B4-4FBCE1BB712E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE87798-4E20-47DC-88B4-4FBCE1BB712E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE87798-4E20-47DC-88B4-4FBCE1BB712E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE87798-4E20-47DC-88B4-4FBCE1BB712E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F7E933-6B0E-4939-995E-26B0C599F33A}
+	EndGlobalSection
+EndGlobal
